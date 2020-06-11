@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Eye Ballin Navigation</string>
+    <string name="init_greeting">Hello! Where would you like to go?</string>
+    <string name="ask_again">Is that correct?</string>
+    <string name="navigate">Going to room </string>
+    <string name="ask_navigate">Navigate to room</string>
+    <string name="notify_contacts">Emergency contacts are being notified</string>
+    <string name="notify_fall">Fall detected, say cancel to cancel</string>
+    <string name="notify_cancel">Cancelling notify</string>
+    <string name="notify_text">Fall detected, this person might be in a critical condition</string>
+    <string name="please_repeat">Sorry, i didnt hear that, please repeat</string>
+    <string name="room_number">Sorry, you need to specify a room number to navigate to</string>
+    <string name="not_exist">Sorry that room doesnt exist</string>
+</resources>
